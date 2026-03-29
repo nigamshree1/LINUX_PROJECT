@@ -5,7 +5,7 @@ This repository contains five shell scripts and a comprehensive report outline c
 ## Developer Information
 - **Student Name**: Shree Nigam
 - **Registration Number**: 24BAI10688
-- **Chosen Software**: Python
+- **Chosen Software**: Python on Linux 
 
 ## Project Shell Scripts
 All scripts are designed to run on a standard Linux environment.
